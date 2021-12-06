@@ -28,3 +28,4 @@ class Child extends Parent {
     return this.number + this.number;
   }
 }
+ 
